@@ -26,7 +26,7 @@ Coming Soon:
 
 We often struggle to put our emotions into words.  
 MindCanvas gives you a new language — drawing — and lets **AI translate** that into something human, beautiful, and meaningful.
-
+unique idea
 ---
 
 ## 🛠 Tech Stack
